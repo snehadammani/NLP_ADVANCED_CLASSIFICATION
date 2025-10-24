@@ -1,11 +1,7 @@
 # NLP_ADVANCED_CLASSIFICATION
-You just need to **copy everything inside the gray markdown box** (from `# Advanced Sentence Transformation Classification` down to the last line).
-
-Here’s exactly what to copy 👇
 
 ---
 
-### ✅ Copy this entire section into your `README.md` file
 
 ```markdown
 # Advanced Sentence Transformation Classification
@@ -47,8 +43,8 @@ Transformers, Torch, tqdm, SHAP, LIME
 Ensure Python and pip versions are compatible before proceeding.
 
 ### 3. Project Structure
-```
 
+<pre>
 NLP_ADVANCE/
 │
 ├── data/
@@ -59,6 +55,7 @@ NLP_ADVANCE/
 │   ├── evaluate_model.py
 │   └── streamlit_app.py
 └── generated_dataset.csv
+</pre>
 
 ````
 
