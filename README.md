@@ -165,8 +165,7 @@ streamlit run src/streamlit_app.py
 
 This project successfully demonstrates an **end-to-end NLP classification pipeline** using **BERT** for sentence transformation detection. It includes comprehensive preprocessing, fine-tuning, explainable AI integrations (SHAP/LIME), and a deployable Streamlit interface for model interpretability.
 
-All warnings and model issues were addressed, resulting in a stable and reproducible workflow suitable for research and deployment.
 
 
-Would you like me to make a short **Future Scope section** (2–3 bullet points) to append at the end? It helps when submitting to college or showcasing on GitHub.
-```
+
+
